@@ -282,7 +282,7 @@
 		}
 
 		100% {
-			opacity: 1;
+			opacity: .3;
 		}
 	}
 
@@ -292,7 +292,7 @@
 		}
 
 		100% {
-			opacity: 1;
+			opacity: .3;
 		}
 	}
 
@@ -302,7 +302,7 @@
 		}
 
 		100% {
-			opacity: 1;
+			opacity: .3;
 		}
 	}
 
@@ -314,7 +314,7 @@
 		background-attachment: fixed, fixed;
 		background-image: url("images/overlay-pattern.png"), url("images/overlay.svg");
 		background-position: top left, center center;
-		background-repeat: repeat, no-repeat;
+		background-repeat: repeat, repeat;
 		background-size: auto, cover;
 		height: 100%;
 		left: 0;
