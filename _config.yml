@@ -2,7 +2,7 @@
 title: // TODO
 email: zach@palumbo.io
 description: > # this means to ignore newlines until "baseurl:"
-  This site is under construction while I learn how web development works...
+  Check back every day and eventually an actual blog might show up!
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "palumbo.io" # the base hostname & protocol for your site
 github_username: ParceledTongue

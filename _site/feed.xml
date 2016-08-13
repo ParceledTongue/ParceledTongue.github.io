@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>// TODO</title>
-    <description>This site is under construction while I learn how web development works...
+    <description>Check back every day and eventually an actual blog might show up!
 </description>
     <link>palumbo.io/</link>
     <atom:link href="palumbo.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 13 Aug 2016 10:00:42 -0400</pubDate>
-    <lastBuildDate>Sat, 13 Aug 2016 10:00:42 -0400</lastBuildDate>
+    <pubDate>Sat, 13 Aug 2016 10:11:47 -0400</pubDate>
+    <lastBuildDate>Sat, 13 Aug 2016 10:11:47 -0400</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
