@@ -187,7 +187,7 @@
 	/* Set your background with this */
 
 		background: #348cb2 url("images/bg.jpg") bottom left;
-		background-repeat: repeat-x;
+		background-repeat: repeat;
 		height: 100%;
 		left: 0;
 		opacity: 1;
@@ -314,7 +314,7 @@
 		background-attachment: fixed, fixed;
 		background-image: url("images/overlay-pattern.png"), url("images/overlay.svg");
 		background-position: top left, center center;
-		background-repeat: repeat, repeat;
+		background-repeat: repeat, no-repeat;
 		background-size: auto, cover;
 		height: 100%;
 		left: 0;
