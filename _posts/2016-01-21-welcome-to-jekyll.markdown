@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jennifer Miller!"
+title:  "Welcome to Jekyll!"
 date:   2016-01-21 18:39:12
 categories: jekyll update
 ---

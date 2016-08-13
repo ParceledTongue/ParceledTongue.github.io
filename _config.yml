@@ -1,14 +1,13 @@
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
+title: // TODO
+email: zach@palumbo.io
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This site is under construction while I learn how web development works.
+  I've got my own domain, though! That's exciting. And yes, I definitely
+  considered getting `palumb.io` instead... It wasn't an easy decision.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "palumbo.io" # the base hostname & protocol for your site
+github_username: ParceledTongue
 
 # Build settings
 markdown: kramdown
